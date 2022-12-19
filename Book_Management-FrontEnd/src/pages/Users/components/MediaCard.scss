@@ -1,0 +1,15 @@
+.card {
+    margin-left: 222px;
+    margin-right: 222px;
+    h1 {
+        margin-left: 15px;
+    }
+    .card-item {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 100%;
+        display: grid;
+        gap: 10px;
+        padding: 5px;
+    }
+}

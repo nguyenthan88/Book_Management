@@ -1,0 +1,17 @@
+.book {
+    margin-left: 222px;
+    margin-right: 222px;
+    .table {
+        width: 100%;
+        border: 0.5px solid;
+    }
+    .bottom {
+        -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+        box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    }
+    .title {
+        font-size: 16px;
+        color: lightgray;
+        margin-bottom: 20px;
+    }
+}
